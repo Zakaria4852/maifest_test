@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com:Zakaria4852" pushurl="ssh://git@github.com:Zakaria4852"/>
+
+<!-- Repositories of the GenericApplicationComponents project -->
+  <project remote="origin" revision="refs/heads/master" path="App/Ecall" name="TestRepo_Ecall">
+  <project remote="origin" revision="refs/heads/master" path="App/Ecall" name="TestRepo_BSW">
+  
+</manifest>
