@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.com/Zakaria4852/" pushurl="https://github.com/Zakaria4852"/>
+  <remote name="origin" fetch="https://github.com/Zakaria4852/repo.git" pushurl="https://github.com/Zakaria4852/repo.git"/>
 
 <!-- Repositories of the GenericApplicationComponents project -->
   <project remote="origin" revision="refs/heads/main" path="App/Ecall" name="TestRepo_Ecall">
